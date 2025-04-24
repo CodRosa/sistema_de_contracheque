@@ -1,0 +1,1 @@
+Foi realizado um teste de lógica no Pascalzin e o projeto foi um sistema de contracheque;detalha todos os valores a serem pagos e os descontos aplicados no salário bruto, permitindo que o funcionário possa verificar o valor líquido que receberá. 
